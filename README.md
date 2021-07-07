@@ -2,7 +2,7 @@
 - 👀 Meu interesse na área de informática atualmente, é Linux, Python, C, Wireshark.
 - 🌱 Atualmente eu estudo várias coisas online: 
 - 💞️ I’m looking to collaborate on ...
-- 📫 Meu e-mail: paulo@wayinfotec.net.br
+- 📫 Meu e-mail: pcaramguedes@gmail.com
 
 
 <!---
