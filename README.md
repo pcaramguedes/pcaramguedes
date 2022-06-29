@@ -1,6 +1,6 @@
 - 👋 Olá, Meu nome é Paulo Caram
 - 👀 Meu interesse na área de informática atualmente, é Linux, Python, Javascript, Wireshark, Redes.
-- 🌱 Atualmente eu estudo várias coisas online: Python para SYSADMINS na 4Linux
+- 🌱 Atualmente eu trabalho na Brunsker Tecnologia em regime de PJ, atuando com infra em Nuvem, mais especificamente Oracle infraestrutura
 - 💞️ I’m looking to collaborate on ...
 - 📫 Meu e-mail: pcaramguedes@gmail.com
 
